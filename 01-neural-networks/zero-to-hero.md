@@ -8,7 +8,7 @@ Companion code reference: [karpathy/makemore](https://github.com/karpathy/makemo
 
 ## Suggested order
 1. [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) — start here; build intuition for computation graphs and gradients.
-2. [The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo) — bigram character language model and training/evaluation loop.
+2. [The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo) — 30:44; bigram character language model and training/evaluation loop.
 3. [Building makemore Part 2: MLP](https://youtu.be/TCH_1BHY58I) — MLP language model and core ML practice.
 4. [Building makemore Part 3: Activations & Gradients, BatchNorm](https://youtu.be/P6sfmUTpUmc) — inspect activations and gradients.
 5. [Building makemore Part 4: Becoming a Backprop Ninja](https://youtu.be/q8SA3rM6ckI) — manual backpropagation through a tensor-based network.
