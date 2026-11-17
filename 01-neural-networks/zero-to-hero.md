@@ -4,6 +4,8 @@
 
 Official course page: [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html)
 
+Companion code reference: [karpathy/makemore](https://github.com/karpathy/makemore) — an educational character-level language-model implementation, useful for comparing ideas from the makemore lessons after attempting them yourself. Treat it as reference material; implement the learning exercises in this repository rather than copying the project wholesale.
+
 ## Suggested order
 1. [The spelled-out intro to neural networks and backpropagation: building micrograd](https://youtu.be/VMj-3S1tku0) — start here; build intuition for computation graphs and gradients.
 2. [The spelled-out intro to language modeling: building makemore](https://youtu.be/PaCmpygFfXo) — bigram character language model and training/evaluation loop.
@@ -17,6 +19,7 @@ Official course page: [Neural Networks: Zero to Hero](https://karpathy.ai/zero-t
 ## Study checklist
 - [ ] Watch one lesson and write a short explanation in your own words.
 - [ ] Reproduce the key implementation step rather than only copying code.
+- [ ] After your attempt, compare it with the relevant reference code and note one similarity or difference.
 - [ ] Record experiments and actual results in [the learning log](../docs/learning-log.md).
 - [ ] Mark a lesson complete only after doing the implementation and notes.
 
