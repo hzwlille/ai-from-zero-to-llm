@@ -16,10 +16,10 @@ Entries record study sessions; experiments and results are included only when ac
 
 ## Entries
 
-### 2026-11-18 — Zero to Hero Lesson 1: makemore — planned
+### 2026-11-18 — Zero to Hero Lesson 1: makemore — in progress
 - Video length: 30:44 (video duration, not study time).
-- This entry records the duration only; the lesson is not marked watched or completed.
-- Next: Watch in short sections and implement the bigram character language model; record actual study time and results afterward.
+- Watched through 1:25:36.
+- Next: Continue the lesson and implement the bigram character language model; record actual study time and results afterward.
 - [Lesson 1 video](https://youtu.be/PaCmpygFfXo) · [Issue #4 — Build makemore bigram model](https://github.com/hzwlille/ai-from-zero-to-llm/issues/4)
 
 
