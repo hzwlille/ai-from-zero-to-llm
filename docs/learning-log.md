@@ -16,12 +16,16 @@ Entries record study sessions; experiments and results are included only when ac
 
 ## Entries
 
-### 2026-11-18 — Zero to Hero Lesson 1: makemore — in progress
-- Video length: 30:44 (video duration, not study time).
+### 2026-11-22 — Zero to Hero Lesson 1: makemore — in progress
 - Watched through 1:25:36.
 - Next: Continue the lesson and implement the bigram character language model; record actual study time and results afterward.
 - [Lesson 1 video](https://youtu.be/PaCmpygFfXo) · [Issue #4 — Build makemore bigram model](https://github.com/hzwlille/ai-from-zero-to-llm/issues/4)
 
+### 2026-11-18 — Zero to Hero Lesson 1: makemore — in progress
+- Studied this lesson; stopping point not recorded.
+- Video length: 30:44 (video duration, not study time).
+- Next: Continue the lesson and implement the bigram character language model; record actual study time and results afterward.
+- [Lesson 1 video](https://youtu.be/PaCmpygFfXo) · [Issue #4 — Build makemore bigram model](https://github.com/hzwlille/ai-from-zero-to-llm/issues/4)
 
 ### 2026-11-15 — Zero to Hero Lesson 0: micrograd and MLP — completed
 - Studied the scalar-value autodiff engine: computation graphs, operation-level backward functions, topological ordering, and gradient accumulation.
